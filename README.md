@@ -9,7 +9,7 @@
 **Overview**
 ------------
 
-This notebook analyzes a dataset of fast food restaurants to identify top-rated restaurants, cities, and countries. The analysis provides insights into the distribution of top-rated restaurants across different cities and countries.
+This notebook analyzes a dataset of foodpanda restaurants to identify top-rated restaurants, cities, and countries. The analysis provides insights into the distribution of top-rated restaurants across different cities and countries.
 
 **Dataset**
 ------------
